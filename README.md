@@ -1,1 +1,2 @@
-This is Repository for Programming Principles 2 course at KBTU
+# Programming Principles II
+This is the Repository for Programming Principles II course at KBTU
