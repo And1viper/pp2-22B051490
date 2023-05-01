@@ -218,7 +218,7 @@ def main():
                     isRhomb = True
                     if color == WHITE:
                         color = BLACK        
-    pygame.display.flip()
+        pygame.display.flip()
 
 if __name__ == '__main__':
     main()
